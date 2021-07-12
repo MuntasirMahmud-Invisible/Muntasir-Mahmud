@@ -129,6 +129,7 @@
   <ItemGroup>
     <Content Include="Content\assets\css\style.css" />
     <Content Include="Content\assets\img\apple-touch-icon.png" />
+    <Content Include="Content\assets\img\favicon.ico" />
     <Content Include="Content\assets\img\favicon.png" />
     <Content Include="Content\assets\img\hero-bg.jpg" />
     <Content Include="Content\assets\img\Muntasir-bg-Fl.jpg" />
